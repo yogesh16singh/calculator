@@ -1,0 +1,22 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	font-family: roboto;
+}
+.button{
+	padding: 20px;
+	margin: 0 2px;
+	border: 2px solid black;
+	border-radius: 9px;
+	cursor: pointer;
+}
+.row{
+	margin: 2px 0;
+	width: 265px;
+}
+.row input{
+	font-size: 18px;
+	margin: 0;
+	padding: 11px 0px;
+	width: 232px;
+}
